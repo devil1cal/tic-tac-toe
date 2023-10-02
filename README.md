@@ -5,6 +5,15 @@
 - 💬 Online show case link is <a href="https://ofhse.csb.app/" > here<a/>
 
 
+# Overview
+- 🚧 under construction 🚧 
+
+
+# Task List
+- [x] Creating working envoriment of the game
+- [ ] Changing better style
+
+
 <h3 align="left">WHich language did I use :</h3>
 <p align="left"> 
  
@@ -20,6 +29,5 @@
     <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="45" style="width: 40px; height: 40px; margin-right: 50px; margin-bottom: 0px;" /> </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" alt="bootstrap"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-  
 </p>
 
