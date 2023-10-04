@@ -2,7 +2,7 @@
 
 
 - 🌱 İt is a simple tic tac toe game.
-- 💬 Online show case link is <a href="https://ofhse.csb.app/" > here<a/>
+- 💬 Online showcase link is <a href="https://ofhse.csb.app/" > here<a/>
 
 
 # Overview
